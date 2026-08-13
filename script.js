@@ -5,7 +5,7 @@ let sala = [
     [0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0]
 ];
-
+// funcções 
 function mostrarGif(tipo = 'sucesso') {
     const overlay = document.getElementById('gifOverlay');
     const gif = document.getElementById('reserveGif');
